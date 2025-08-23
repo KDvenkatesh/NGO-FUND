@@ -529,14 +529,7 @@ export default function App() {
                         >
                             Connect Petra Wallet
                         </motion.button>
-                        <div className="flex justify-center space-x-4 mt-4">
-                            <a href="https://instagram.com/your_instagram" target="_blank" rel="noopener noreferrer" className="px-6 py-3 bg-white/20 text-white rounded-lg hover:bg-white/30 transition-colors duration-200 font-inter">
-                                INSTAGRAM
-                            </a>
-                            <a href="https://figma.com/@your_figma" target="_blank" rel="noopener noreferrer" className="px-6 py-3 bg-white/20 text-white rounded-lg hover:bg-white/30 transition-colors duration-200 font-inter">
-                                FIGMA
-                            </a>
-                        </div>
+                        
                     </div>
                 </motion.div>
                 {/* Tailwind CSS animations for blob effect */}
